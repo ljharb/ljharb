@@ -20,6 +20,7 @@ I've been a part of TC39 (the committee that writes the specification for JavaSc
 ## Projects I Maintain
  - [qs](https://github.com/ljharb/qs)
  - [nvm.sh](https://github.com/nvm-sh/nvm)
+ - [resolve](https://github.com/browserify/resolve)
  - [enzyme](https://github.com/enzymejs/) organization
    - [enzyme](https://github.com/enzymejs/enzyme)
  - [airbnb javascript styleguide/eslint configs](https://github.com/airbnb/javascript)
