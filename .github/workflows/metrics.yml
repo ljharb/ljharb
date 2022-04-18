@@ -22,7 +22,7 @@ jobs:
           config_timezone: America/Los_Angeles
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md
-          plugin_isocalendar: yes
+          plugin_isocalendar: no
           plugin_isocalendar_duration: full-year
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md
@@ -33,8 +33,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 0
           plugin_languages_skipped: nodejs/node
-          plugin_languages_ignored: kotlin, C#, Coffeescript, Starlark, Smarty
+          plugin_languages_ignored: kotlin, C#, Coffeescript, Starlark, Smarty, C++, C, Perl, Arc, Swift, Java, Objective-C
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md
-          plugin_sponsors: yes
+          plugin_sponsors: no
           plugin_sponsors_past: yes
