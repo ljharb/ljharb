@@ -18,26 +18,49 @@ Hi‼ My name's [Jordan](https://twitter.com/ljharb), and I've gradually mutated
 I've been a part of TC39 (the committee that writes the specification for JavaScript) since 2014, and I was an editor of the specification from 2018-2021. I've been heavily involved in the node community for as many years, and I've gradually created (but mostly inherited or been gifted) a decent number of open source projects. I persist in trying to maintain them all with maximal back compat, the strictest adherence to semver, and the greatest respect for users.
 
 ## Projects I Maintain
- - [qs](https://github.com/ljharb/qs)
- - [nvm.sh](https://github.com/nvm-sh/nvm)
- - [resolve](https://github.com/browserify/resolve)
- - [enzyme](https://github.com/enzymejs/) organization
-   - [enzyme](https://github.com/enzymejs/enzyme)
- - [airbnb javascript styleguide/eslint configs](https://github.com/airbnb/javascript)
- - [es-shims](https://github.com/es-shims) organization
-   - [es5-shim](https://github.com/es-shims/es5-shim)
-   - [es6-shim](https://github.com/paulmillr/es6-shim)
-   - [object.assign](https://github.com/ljharb/object.assign)
- - [tape](https://github.com/substack/tape)
- - [inspect-js](https://github.com/inspect-js/) organization
-   - [object-inspect](https://github.com/inspect-js/object-inspect)
- - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
- - [jsx-eslint](https://github.com/jsx-eslint) organization
-   - [eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
- - [import-js](https://github.com/import-js) organization
-   - [eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
- - [prop-types](https://github.com/facebook/prop-types)
- - … [more on npm](https://www.npmjs.com/~ljharb)
+<table>
+ <tbody>
+  <tr>
+   <td><a href="https://github.com/ljharb/qs">qs</a></td>
+   <td><a href="https://github.com/nvm-sh/nvm">nvm.sh</a></td>
+   <td><a href="https://github.com/browserify/resolve">resolve</a></td>
+   <td><a href="https://github.com/substack/tape">tape</a></td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/airbnb/javascript">airbnb javascript styleguide/eslint configs</a></td>
+   <td><a href="https://github.com/facebook/prop-types">prop-types</a></td>
+   <td><a href="https://github.com/kangax/compat-table">compat-table</a></td>
+   <td><a href="https://github.com/ljharb/es-abstract">es-abstract</a></td>
+  </tr>
+  <tr><th colspan=4><img width="1000" height="1"></th></tr>
+  <tr>
+   <th><a href="https://github.com/enzymejs/">enzyme</a> organization</th>
+   <td colspan=3><a href="https://github.com/enzymejs/enzyme">enzyme</a></td>
+  </tr>
+  <tr>
+   <th><a href="https://github.com/es-shims">es-shims</a> organization</th>
+   <td><a href="https://github.com/es-shims/es5-shim">es5-shim</a></td>
+   <td><a href="https://github.com/paulmillr/es6-shim">es6-shim</a></td>
+   <td><a href="https://github.com/ljharb/object.assign">object.assign</a></td>
+  </tr>
+  <tr>
+   <th><a href="https://github.com/inspect-js/">inspect-js</a> organization</th>
+   <td><a href="https://github.com/inspect-js/object-inspect">object-inspect</a></td>
+   <td colspan=2><a href="https://github.com/inspect-js/node-deep-equal">deep-equal</a></td>
+  </tr>
+  <tr>
+   <th><a href="https://github.com/jsx-eslint">jsx-eslint</a> organization</th>
+   <td><a href="https://github.com/jsx-eslint/eslint-plugin-react">eslint-plugin-react</a></td>
+   <td colspan=2><a href="https://github.com/jsx-eslint/eslint-plugin-jsx-a11y">eslint-plugin-jsx-a11y</a></td>
+  </tr>
+  <tr>
+   <th><a href="https://github.com/import-js">import-js</a> organization</th>
+   <td colspan=3><a href="https://github.com/import-js/eslint-plugin-import">eslint-plugin-import</a></td>
+  </tr>
+ </tbody>
+</table>
+
+… and many more [on npm](https://www.npmjs.com/~ljharb)
 
 ## Standards/Communities I Contribute To
 <caption>this includes participation in working groups, committees, meetings, general issue triage, etc</caption>
@@ -63,3 +86,4 @@ Sponsorship helps fund domains, travel, but also *other sponsorships*
 ![GitHub stats](https://github.com/ljharb/ljharb/blob/HEAD/github-metrics.svg)
 
 </details>
+
