@@ -83,7 +83,7 @@ Sponsorship helps fund domains, travel, but also *other sponsorships*
 
 <details>
 
-![GitHub stats](https://github.com/ljharb/ljharb/blob/HEAD/github-metrics.svg)
+![GitHub stats](https://github.com/ljharb/ljharb/blob/metrics/github-metrics.svg)
 
 </details>
 

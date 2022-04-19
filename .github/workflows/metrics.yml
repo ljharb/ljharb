@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: 0 50 * * *
+    - cron: "50 * * * *"
   push: {}
   pull_request: {}
 jobs:
@@ -20,6 +20,8 @@ jobs:
           optimize: css, xml, svg
           experimental_features: --optimize-svg
           config_timezone: America/Los_Angeles
+          config_display: columns
+          committer_branch: metrics
 
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md
           plugin_isocalendar: no
