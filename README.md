@@ -55,3 +55,11 @@ I've been a part of TC39 (the committee that writes the specification for JavaSc
 Although open source is a huge part of my life, it's not the most important part - I have a spouse, kids, and a dog; bills to pay; and I also try to give back to the wider community.
 
 Sponsorship helps fund domains, travel, but also *other sponsorships*
+
+# Github Stats
+
+<details>
+
+![GitHub stats](https://github.com/ljharb/ljharb/blob/HEAD/github-metrics.svg)
+
+</details>
