@@ -43,8 +43,9 @@ I've been a part of TC39 (the committee that writes the specification for JavaSc
 <caption>this includes participation in working groups, committees, meetings, general issue triage, etc</caption>
 
  - [TC39](https://tc39.es/) (JavaScript language committee)
- - [node.js](https://nodejs.org/): [slack](https://node-js.slack.com/), Working Groups: [Modules](https://github.com/nodejs/modules), [Version Management](https://github.com/nodejs/version-management), [Moderation](https://github.com/nodejs/admin/blob/main/Moderation-Policy.md)
+ - [node.js](https://nodejs.org/): [slack](https://www.nodeslackers.com), Working Groups: [Modules](https://github.com/nodejs/modules), [Version Management](https://github.com/nodejs/version-management), [Moderation](https://github.com/nodejs/admin/blob/main/Moderation-Policy.md), [Package Maintenance](https://github.com/nodejs/package-maintenance)
  - [OpenJS Foundation](https://github.com/openjs-foundation/) [Cross Project Council](https://github.com/openjs-foundation/cross-project-council)
+ - [OpenSSF Foundation](https://openssf.org/) [Governing Board](https://openssf.org/about/board/)
  - [eslint](https://github.com/eslint/eslint/issues?utf8=✓&q=commenter%3Aljharb)
  - [babel](https://github.com/babel/babel/issues?utf8=✓&q=commenter%3Aljharb): [slack](https://babeljs.slack.com/)
  - [libera](https://libera.chat) IRC: [#javascript](https://web.libera.chat/?channel=#javascript), [#node.js](https://web.libera.chat/?channel=#node.js)
