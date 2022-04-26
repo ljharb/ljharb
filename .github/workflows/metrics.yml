@@ -27,6 +27,10 @@ jobs:
           plugin_isocalendar: no
           plugin_isocalendar_duration: full-year
 
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/calendar/README.md
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md
           plugin_achievements: true
           plugin_achievements_ignored: automater, stargazer, forker, gister # developer, member, explorer, infographile
