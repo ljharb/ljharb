@@ -6500,7 +6500,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2332.8533333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2332.75 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -6531,9 +6531,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     inspirer
-                                    <span class="gh">ranked 55 out of 305m repositories</span>
+                                    <span class="gh">ranked 56 out of 305m repositories</span>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 23576 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 23575 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -6579,7 +6579,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1166.3336666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1166.344 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -6604,7 +6604,7 @@
                                     maintainer
                                     <span class="gh">ranked 23 out of 305m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 122871 stars</div>
+                                <div class="text">Maintaining a repository with 122872 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -6617,7 +6617,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="413.54 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="414.2633333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -6654,9 +6654,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 436 out of 90m users</span>
+                                    <span class="gh">ranked 434 out of 90m users</span>
                                 </div>
-                                <div class="text">Followed by 5002 users</div>
+                                <div class="text">Followed by 5009 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
