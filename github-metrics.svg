@@ -6511,7 +6511,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2340.19 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2340.2933333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -6544,7 +6544,7 @@
                                     inspirer
                                     <span class="gh">ranked 56 out of 307m repositories</span>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 23647 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 23648 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -6590,7 +6590,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1169.0306666666665 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1169.041 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -6615,7 +6615,7 @@
                                     maintainer
                                     <span class="gh">ranked 24 out of 307m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 123132 stars</div>
+                                <div class="text">Maintaining a repository with 123133 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -6628,7 +6628,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="416.53666666666663 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="416.64000000000004 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -6667,7 +6667,7 @@
                                     influencer
                                     <span class="gh">ranked 435 out of 91m users</span>
                                 </div>
-                                <div class="text">Followed by 5031 users</div>
+                                <div class="text">Followed by 5032 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
