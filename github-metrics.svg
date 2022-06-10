@@ -23,7 +23,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="365.7782059823638" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="365.7782059823638" y="0" width="85.0860416704564" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="450.86424765282015" y="0" width="3.7063091243235085" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="450.86424765282015" y="0" width="3.7063091243235085" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="454.5705567771437" y="0" width="2.2388311351209436" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="456.8093879122646" y="0" width="1.1939303776791348" height="8" fill="#701516"/>
                     <rect mask="url(#languages-bar)" x="458.00331828994376" y="0" width="0.8038486658028643" height="8" fill="#6E4C13"/>
@@ -54,7 +54,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
                     </div>
@@ -6655,7 +6655,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="420.56666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="420.67 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -6694,7 +6694,7 @@
                                     influencer
                                     <span class="gh">ranked 438 out of 92m users</span>
                                 </div>
-                                <div class="text">Followed by 5070 users</div>
+                                <div class="text">Followed by 5071 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -6732,7 +6732,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 8.76k out of 92m users</span>
+                                    <span class="gh">ranked 8.77k out of 92m users</span>
                                 </div>
                                 <div class="text">Published 431 public repositories</div>
                             </div>
