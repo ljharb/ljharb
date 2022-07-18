@@ -411,6 +411,9 @@
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
+                                <g transform="translate(435, 0)">
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                </g>
                             </g>
                             <g transform="translate(0, 144)">
                                 <text x="0" y="0">2021</text>
@@ -6585,7 +6588,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2369.02 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2369.1233333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -6618,7 +6621,7 @@
                                     inspirer
                                     <span class="gh">ranked 59 out of 326m repositories</span>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 23926 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 23927 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -6664,7 +6667,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1186.463 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1186.4733333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -6689,7 +6692,7 @@
                                     maintainer
                                     <span class="gh">ranked 24 out of 326m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 124819 stars</div>
+                                <div class="text">Maintaining a repository with 124820 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
