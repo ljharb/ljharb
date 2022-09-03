@@ -6654,7 +6654,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2398.6766666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2398.78 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -6687,7 +6687,7 @@
                                     inspirer
                                     <span class="gh">ranked 58 out of 336m repositories</span>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 24213 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 24214 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -6733,7 +6733,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1207.3053333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1207.326 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -6758,7 +6758,7 @@
                                     maintainer
                                     <span class="gh">ranked 25 out of 336m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 126836 stars</div>
+                                <div class="text">Maintaining a repository with 126838 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -7002,7 +7002,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.663333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.766666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -7030,7 +7030,7 @@
                                     <span class="prefix">Master</span>
                                     reviewer
                                 </div>
-                                <div class="text">Reviewed 1529 pull requests</div>
+                                <div class="text">Reviewed 1530 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
