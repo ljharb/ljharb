@@ -21,19 +21,19 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.4346531096637" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="361.4346531096637" y="0" width="89.79897068071395" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="451.23362379037764" y="0" width="3.542413324930929" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.7760371153086" y="0" width="2.2629898619511284" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.0390269772597" y="0" width="1.194088829068031" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="458.2331158063277" y="0" width="0.809935102532669" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="459.0430509088604" y="0" width="0.3902870822545337" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="459.4333379911149" y="0" width="0.2950016701841375" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.728339661299" y="0" width="0.15334754288074504" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.8816872041798" y="0" width="0.047387907874757725" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.92907511205453" y="0" width="0.030944326592052544" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.9600194386466" y="0" width="0.02242223811875238" height="8" fill="#990000"/>
-                    <rect mask="url(#languages-bar)" x="459.9824416767654" y="0" width="0.017558323234631787" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.4407099949633" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="361.4407099949633" y="0" width="89.79345249321098" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.23416248817426" y="0" width="3.5421956420244114" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.7763581301987" y="0" width="2.262850800197069" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.0392089303958" y="0" width="1.1940154517675556" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="458.23322438216326" y="0" width="0.8098853316530349" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="459.0431097138163" y="0" width="0.3902630989362" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="459.4333728127525" y="0" width="0.29498354219762013" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.72835635495017" y="0" width="0.15333811960463928" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.8816944745548" y="0" width="0.04738499586631214" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.92907947042113" y="0" width="0.030942425049139594" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.9600218954703" y="0" width="0.022420860262043804" height="8" fill="#990000"/>
+                    <rect mask="url(#languages-bar)" x="459.9824427557323" y="0" width="0.017557244267700292" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -6831,7 +6831,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 435 out of 100m users</span>
+                                    <span class="gh">ranked 434 out of 100m users</span>
                                 </div>
                                 <div class="text">Followed by 5484 users</div>
                             </div>
