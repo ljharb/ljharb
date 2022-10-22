@@ -46,7 +46,8 @@ I've been a part of TC39 (the committee that writes the specification for JavaSc
   <tr>
    <th><a href="https://github.com/inspect-js/">inspect-js</a> organization</th>
    <td><a href="https://github.com/inspect-js/object-inspect">object-inspect</a></td>
-   <td colspan=2><a href="https://github.com/inspect-js/node-deep-equal">deep-equal</a></td>
+   <td><a href="https://github.com/inspect-js/node-deep-equal">deep-equal</a></td>
+   <td><a href="https://github.com/inspect-js/which-collection">which-collection</a></td>
   </tr>
   <tr>
    <th><a href="https://github.com/jsx-eslint">jsx-eslint</a> organization</th>
