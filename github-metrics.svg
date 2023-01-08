@@ -6720,7 +6720,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1246.944 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1246.9646666666665 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -6745,7 +6745,7 @@
                                     maintainer
                                     <span class="gh">ranked 24 out of 368m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 130672 stars</div>
+                                <div class="text">Maintaining a repository with 130674 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -6795,7 +6795,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 445 out of 105m users</span>
+                                    <span class="gh">ranked 446 out of 105m users</span>
                                 </div>
                                 <div class="text">Followed by 5648 users</div>
                             </div>
