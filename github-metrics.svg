@@ -42,7 +42,7 @@
                                 </g>
                                 <g transform="translate(15, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
@@ -6726,7 +6726,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1248.1013333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1248.091 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -6751,7 +6751,7 @@
                                     maintainer
                                     <span class="gh">ranked 24 out of 368m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 130784 stars</div>
+                                <div class="text">Maintaining a repository with 130783 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -6764,7 +6764,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="481.6366666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="481.74 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -6803,7 +6803,7 @@
                                     influencer
                                     <span class="gh">ranked 447 out of 106m users</span>
                                 </div>
-                                <div class="text">Followed by 5661 users</div>
+                                <div class="text">Followed by 5662 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -6841,7 +6841,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 8.99k out of 106m users</span>
+                                    <span class="gh">ranked 9k out of 106m users</span>
                                 </div>
                                 <div class="text">Published 445 public repositories</div>
                             </div>
