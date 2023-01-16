@@ -6732,7 +6732,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1249.672 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1249.6823333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -6757,7 +6757,7 @@
                                     maintainer
                                     <span class="gh">ranked 24 out of 368m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 130936 stars</div>
+                                <div class="text">Maintaining a repository with 130937 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -7049,7 +7049,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.775 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.3249999999999997 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" fill="none" fill-rule="evenodd">
@@ -7071,7 +7071,7 @@
                                     <span class="prefix">Super</span>
                                     helper
                                 </div>
-                                <div class="text">Answered and solved 51 discussions</div>
+                                <div class="text">Answered and solved 53 discussions</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
