@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a good liar! I love JavaScript, but I suck at being a human.
+
 <!--
 **ljharb/ljharb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
