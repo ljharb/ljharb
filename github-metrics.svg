@@ -6984,7 +6984,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2543.8599999999997 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2543.963333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -7017,7 +7017,7 @@
                                     inspirer
                                     <span class="gh">ranked 66 out of 404m repositories</span>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 25618 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 25619 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
