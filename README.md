@@ -75,7 +75,7 @@ I've been a part of TC39 (the committee that writes the specification for JavaSc
  - [<img src="https://avatars.githubusercontent.com/u/1725583?s=20&v=4" /> TC39](https://tc39.es/) (JavaScript language committee)
  - [<img src="https://avatars.githubusercontent.com/u/9950313?s=20&v=4" /> node.js](https://nodejs.org/): [slack](https://www.nodeslackers.com), Working Groups: [Modules](https://github.com/nodejs/modules), [Version Management](https://github.com/nodejs/version-management), [Moderation](https://github.com/nodejs/admin/blob/main/Moderation-Policy.md), [Package Maintenance](https://github.com/nodejs/package-maintenance)
  - [<img src="https://avatars.githubusercontent.com/u/48335322?s=20&v=4" /> OpenJS Foundation](https://github.com/openjs-foundation/) [Cross Project Council](https://github.com/openjs-foundation/cross-project-council)
- - [<img src="https://avatars.githubusercontent.com/u/130695526OpenSSF?s=20&v=4" /> OpenSSF Foundation](https://openssf.org/)
+ - [<img src="https://avatars.githubusercontent.com/u/130695526?s=20&v=4" /> OpenSSF Foundation](https://openssf.org/)
  - [<img src="https://avatars.githubusercontent.com/u/6019716?s=20&v=4" /> eslint](https://github.com/eslint/eslint/issues?utf8=✓&q=commenter%3Aljharb)
  - [<img src="https://avatars.githubusercontent.com/u/9637642?s=20&v=4" /> babel](https://github.com/babel/babel/issues?utf8=✓&q=commenter%3Aljharb): [slack](https://babeljs.slack.com/)
  - [<img src="https://libera.chat/static/img/libera-color.svg" width="20" /> libera](https://libera.chat) IRC: [#javascript](https://web.libera.chat/?channel=#javascript), [#node.js](https://web.libera.chat/?channel=#node.js)
