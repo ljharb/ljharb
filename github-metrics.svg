@@ -7048,7 +7048,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1306.3193333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1306.3606666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -7071,9 +7071,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 30 out of 58.5m repositories</span>
+                                    <span class="gh">ranked 30 out of 57.8m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 136418 stars</div>
+                                <div class="text">Maintaining a repository with 136422 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -7123,7 +7123,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 486 out of 119m users</span>
+                                    <span class="gh">ranked 486 out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 6263 users</div>
                             </div>
@@ -7163,7 +7163,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 9.42k out of 119m users</span>
+                                    <span class="gh">ranked 9.42k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 458 public repositories</div>
                             </div>
