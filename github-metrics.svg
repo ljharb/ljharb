@@ -7075,7 +7075,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1327.792 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1327.8023333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -7098,9 +7098,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 29 out of 52.8m repositories</span>
+                                    <span class="gh">ranked 29 out of 62.2m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 138496 stars</div>
+                                <div class="text">Maintaining a repository with 138497 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -7190,7 +7190,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 9.45k out of 121m users</span>
+                                    <span class="gh">ranked 9.44k out of 121m users</span>
                                 </div>
                                 <div class="text">Published 459 public repositories</div>
                             </div>
