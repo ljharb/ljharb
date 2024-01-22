@@ -7234,7 +7234,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 31 out of 68.1m repositories</span>
+                                    <span class="gh">ranked 31 out of 71.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 140059 stars</div>
                             </div>
@@ -7249,7 +7249,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="571.4333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="571.5366666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -7288,7 +7288,7 @@
                                     influencer
                                     <span class="gh">ranked 497 out of 128m users</span>
                                 </div>
-                                <div class="text">Followed by 6530 users</div>
+                                <div class="text">Followed by 6531 users</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -7326,7 +7326,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 9.66k out of 128m users</span>
+                                    <span class="gh">ranked 9.67k out of 128m users</span>
                                 </div>
                                 <div class="text">Published 462 public repositories</div>
                             </div>
