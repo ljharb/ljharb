@@ -7453,7 +7453,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 504 out of 137m users</span>
+                                    <span class="gh">ranked 505 out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 6811 users</div>
                             </div>
@@ -7662,7 +7662,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="85.56 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="85.87 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -7682,7 +7682,7 @@
                                     <span class="prefix">Super</span>
                                     chatter
                                 </div>
-                                <div class="text">Participated in discussions 776 times</div>
+                                <div class="text">Participated in discussions 777 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
