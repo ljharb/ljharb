@@ -324,6 +324,7 @@
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -7551,7 +7552,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 510 out of 142m users</span>
+                                    <span class="gh">ranked 510 out of 141m users</span>
                                 </div>
                                 <div class="text">Followed by 6996 users</div>
                             </div>
@@ -7591,7 +7592,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 9.49k out of 142m users</span>
+                                    <span class="gh">ranked 9.49k out of 141m users</span>
                                 </div>
                                 <div class="text">Published 487 public repositories</div>
                             </div>
