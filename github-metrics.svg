@@ -329,6 +329,7 @@
                                 </g>
                                 <g transform="translate(495, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -7504,7 +7505,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 31 out of 217m repositories</span>
+                                    <span class="gh">ranked 31 out of 218m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 144324 stars</div>
                             </div>
@@ -7556,7 +7557,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     influencer
-                                    <span class="gh">ranked 511 out of 142m users</span>
+                                    <span class="gh">ranked 511 out of 141m users</span>
                                 </div>
                                 <div class="text">Followed by 6998 users</div>
                             </div>
@@ -7596,7 +7597,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 9.49k out of 142m users</span>
+                                    <span class="gh">ranked 9.49k out of 141m users</span>
                                 </div>
                                 <div class="text">Published 487 public repositories</div>
                             </div>
