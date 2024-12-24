@@ -491,6 +491,7 @@
                                 </g>
                                 <g transform="translate(765, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -7666,7 +7667,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 32 out of 229m repositories</span>
+                                    <span class="gh">ranked 32 out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 145687 stars</div>
                             </div>
